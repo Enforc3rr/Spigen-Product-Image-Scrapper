@@ -1,0 +1,19 @@
+{
+  "name": "web-scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "images-scraper": "^6.3.0",
+    "mongoose": "^5.13.3",
+    "puppeteer": "^10.1.0",
+    "shelljs": "^0.8.4"
+  }
+}
